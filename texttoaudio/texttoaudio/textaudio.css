@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(./speaker.jpg);
+}
+textarea{
+    background-color:skyblue;
+    border: 5px black solid;
+    border-radius: 10px;
+}
+button{
+    height: 40px;
+    width: 70px;
+    font-size: 1rem;
+}
+#cont{
+    text-align: center;
+}
+h1{
+    background-color: red;
+    height: 50px;
+}
